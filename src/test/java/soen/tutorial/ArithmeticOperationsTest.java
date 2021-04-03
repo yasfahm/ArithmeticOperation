@@ -17,6 +17,7 @@ public class ArithmeticOperationsTest {
 		Integer expected = 8;
 // 		assertEquals(expected, actual);
 		fail("must fail");
+		
 
 	}
 //     @Test
